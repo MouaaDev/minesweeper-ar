@@ -1,4 +1,4 @@
-import { Pos, Tile, TileStatuses } from "./Types"
+import { Pos, Tile, TileStatuses } from "./types"
 
 export function createBoard(boardSize: number, minesCount: number): Tile[][] {
   const board: Tile[][] = []

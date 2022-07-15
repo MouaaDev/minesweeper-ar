@@ -7,7 +7,7 @@ import {
   revealTiles,
 } from "./minesweeper"
 
-import { TileStatuses } from "./Types"
+import { TileStatuses } from "./types"
 
 // Grab DOM elements
 const messageText = document.querySelector(
